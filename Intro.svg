@@ -3,10 +3,10 @@
         <div xmlns="http://www.w3.org/1999/xhtml" >
           <style>
 #s-text{
-	 font: 18em/1 Brush Script MT;
+	 font: 16em/1 Brush Script MT;
 }
  .text--line {
-	 font-size: 0.7em;
+	 font-size: 0.5em;
 }
  svg {
 	 position: absolute;
