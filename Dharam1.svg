@@ -4,7 +4,7 @@
         <div xmlns="http://www.w3.org/1999/xhtml" >
           <style>
 #s-text{
-	 font: 16em/1 Brush Script Std,cursive;
+	 font: 16em/1 'Oleo Script', Helvetica, sans-serif;;
 }
  .text--line {
 	 font-size: 0.5em;
