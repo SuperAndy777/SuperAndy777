@@ -5,7 +5,7 @@
           <style>
 @import url('https://fonts.googleapis.com/css2?family=Pacifico')		  
 #s-text{
-	 font: 16em/1 Arial;
+	 font: 160em/1 Arial;
 	 font-family: 'Pacifico', cursive;	  
 }
  .text--line {
