@@ -25,7 +25,7 @@
 	 stroke-dashoffset: 7%;
 }
  .text-copy:nth-child(2) {
-	 stroke: #B00063;
+	 stroke: #C063FF;
 	 stroke-dashoffset: 14%;
 }
  .text-copy:nth-child(3) {
@@ -33,11 +33,11 @@
 	 stroke-dashoffset: 21%;
 }
  .text-copy:nth-child(4) {
-	 stroke: #B00063;
+	 stroke: #C063FF;
 	 stroke-dashoffset: 28%;
 }
  .text-copy:nth-child(5) {
-	 stroke: #B00063;
+	 stroke: #C063FF;
 	 stroke-dashoffset: 35%;
 }
  @keyframes stroke-offset {
@@ -55,14 +55,14 @@
           y="35%"
           class="text--line2"
           >
-      Welcome
+      Hello Everyone
     </text>
     <text text-anchor="middle"
           x="50%"
           y="68%"
           class="text--line"
           >
-      Male • India • Born in 03
+      Male • India • Aquarius 
     </text>
     
   </symbol>
