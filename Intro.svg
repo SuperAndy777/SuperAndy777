@@ -25,7 +25,7 @@
 	 stroke-dashoffset: 7%;
 }
  .text-copy:nth-child(2) {
-	 stroke: #DA4120;
+	 stroke: #B00063;
 	 stroke-dashoffset: 14%;
 }
  .text-copy:nth-child(3) {
@@ -33,11 +33,11 @@
 	 stroke-dashoffset: 21%;
 }
  .text-copy:nth-child(4) {
-	 stroke: #DA4120;
+	 stroke: #B00063;
 	 stroke-dashoffset: 28%;
 }
  .text-copy:nth-child(5) {
-	 stroke: #DA4120;
+	 stroke: #B00063;
 	 stroke-dashoffset: 35%;
 }
  @keyframes stroke-offset {
