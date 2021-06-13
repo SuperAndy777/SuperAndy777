@@ -3,10 +3,10 @@
         <div xmlns="http://www.w3.org/1999/xhtml" >
           <style>
 #s-text{
-	 font: 16em/1 Arial;
+	 font: 18em/1 Brush Script MT;
 }
  .text--line {
-	 font-size: 0.5em;
+	 font-size: 0.7em;
 }
  svg {
 	 position: absolute;
@@ -21,7 +21,7 @@
 	 animation: stroke-offset 9s 1 linear;
 }
  .text-copy:nth-child(1) {
-	 stroke: #E25A3C;
+	 stroke: #C063FF;
 	 stroke-dashoffset: 7%;
 }
  .text-copy:nth-child(2) {
@@ -29,7 +29,7 @@
 	 stroke-dashoffset: 14%;
 }
  .text-copy:nth-child(3) {
-	 stroke: #E25A3C;
+	 stroke: #C063FF;
 	 stroke-dashoffset: 21%;
 }
  .text-copy:nth-child(4) {
