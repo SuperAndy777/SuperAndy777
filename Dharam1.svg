@@ -3,8 +3,10 @@
    <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" >
           <style>
+@import url('https://fonts.googleapis.com/css2?family=Pacifico')		  
 #s-text{
-	 font: 16em/1 'Pacifico', Helvetica, sans-serif;;;
+	 font: 16em/1 Arial;
+	 font-family: 'Pacifico', cursive;	  
 }
  .text--line {
 	 font-size: 0.5em;
